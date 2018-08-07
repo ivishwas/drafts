@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: gdpr.aux
+The style file: splncs04.bst
+Database file #1: gdpr.bib
+You've used 33 entries,
+            2850 wiz_defined-function locations,
+            802 strings with 12050 characters,
+and the built_in function-call counts, 19139 in all, are:
+= -- 1601
+> -- 586
+< -- 32
++ -- 244
+- -- 208
+* -- 1199
+:= -- 2417
+add.period$ -- 50
+call.type$ -- 33
+change.case$ -- 233
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 1679
+empty$ -- 1742
+format.name$ -- 231
+if$ -- 4216
+int.to.chr$ -- 0
+int.to.str$ -- 33
+missing$ -- 331
+newline$ -- 105
+num.names$ -- 66
+pop$ -- 666
+preamble$ -- 1
+purify$ -- 170
+quote$ -- 0
+skip$ -- 527
+stack$ -- 0
+substring$ -- 1114
+swap$ -- 919
+text.length$ -- 32
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 0
+while$ -- 158
+width$ -- 35
+write$ -- 350

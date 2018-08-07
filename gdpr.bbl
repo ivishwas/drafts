@@ -1,0 +1,176 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{web-never-forgets}
+Acar, G., Eubank, C., Englehardt, S., Juarez, M., Narayanan, A., Diaz, C.: The
+  web never forgets: Persistent tracking mechanisms in the wild. In: ACM
+  CCS'14. pp. 674--689 (2014)
+
+\bibitem{pbd-7}
+{Ann Cavoukian}: Privacy by design: The 7 foundational principles (2011),
+  \href{https://iab.org/wp-content/IAB-uploads/2011/03/fred_carter.pdf}{\texttt{online}}
+
+\bibitem{privacy-paradox}
+Athey, S., Catalini, C., Tucker, C.: The digital privacy paradox: Small money,
+  small costs, small talk. Working Paper 23488, Nat. Bureau of Econ. Research
+  (June 2017). \doi{10.3386/w23488}, \url{http://www.nber.org/papers/w23488}
+
+\bibitem{contextual-integrity}
+Barth, A., Datta, A., Mitchell, J.C., Nissenbaum, H.: Privacy and contextual
+  integrity: Framework and applications. In: IEEE S\&P'06. pp. 184--198 (2006)
+
+\bibitem{fb-tao}
+Bronson, N., Amsden, Z., Cabrera, G., Chakka, P., Dimov, P., Ding, H., Ferris,
+  J., Giardullo, A., Kulkarni, S., Li, H., Marchukov, M., Petrov, D., Puzar,
+  L., Song, Y.J., Venkataramani, V.: {TAO: Facebook{\textquoteright}s
+  Distributed Data Store for the Social Graph}. In: USENIX ATC 13. pp. 49--60
+  (2013)
+
+\bibitem{linkability1}
+Camenisch, J., Lehmann, A.: {(Un)Linkable Pseudonyms for Governmental
+  Databases}. In: ACM CCS'15. pp. 1467--1479 (2015)
+
+\bibitem{big-brother-watching}
+Chaabane, A., Kaafar, M.A., Boreli, R.: Big friend is watching you: Analyzing
+  online social networks tracking capabilities. In: Proc. of ACM Workshop on
+  Online Social Networks. pp. 7--12. ACM (2012)
+
+\bibitem{ocean-costa}
+Costa, P.T., McCrae, R.R.: The Five-Factor Model, Five-Factor Theory, and
+  Interpersonal Psychology, chap.~6, pp. 91--104. Wiley-Blackwell (2012).
+  \doi{10.1002/9781118001868.ch6},
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118001868.ch6}
+
+\bibitem{unique-crowd}
+De~Montjoye, Y.A., Hidalgo, C.A., Verleysen, M., Blondel, V.D.: {Unique in the
+  crowd: The privacy bounds of human mobility}. Scientific reports  \textbf{3},
+  ~1376 (2013), \url{http://dx.doi.org/10.1038/srep01376}
+
+\bibitem{fb-browser-extension-detection}
+DeKoven, L.F., Savage, S., Voelker, G.M., Leontiadis, N.: {Malicious Browser
+  Extensions at Scale: Bridging the Observability Gap between Web Site and
+  Browser}. In: {10th {USENIX} Workshop on Cyber Security Experimentation and
+  Test ({CSET} 17)} (2017),
+  \url{https://www.usenix.org/conference/cset17/workshop-program/presentation/dekoven}
+
+\bibitem{Dixon2017}
+Dixon, P.: {A Failure to ``Do No Harm'' -- India's Aadhaar biometric ID program
+  and its inability to protect privacy in relation to measures in Europe and
+  the U.S.} Health and Technology  \textbf{7}(4),  539--567 (Dec 2017).
+  \doi{10.1007/s12553-017-0202-6},
+  \url{https://doi.org/10.1007/s12553-017-0202-6}
+
+\bibitem{business-of-personal-data}
+Esteve, A.: {The business of personal data: Google, Facebook, and privacy
+  issues in the EU and the USA}. International Data Privacy Law  \textbf{7}(1),
+   36--47 (2017). \doi{10.1093/idpl/ipw026},
+  \url{http://dx.doi.org/10.1093/idpl/ipw026}
+
+\bibitem{eu-gdpr}
+{European Union}: {2018 reform of EU data protection rules} (2018),
+  \href{https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en}{\texttt{online}}
+
+\bibitem{sso2}
+Fett, D., K\"{u}sters, R., Schmitz, G.: {SPRESSO: A Secure, Privacy-Respecting
+  Single Sign-On System for the Web}. In: ACM CCS'15. pp. 1358--1369 (2015)
+
+\bibitem{ftc-2012}
+{FTC}: {Protecting Consumer Privacy in an Era of Rapid Change: Recommendations
+  for Businesses and Policymakers} (2012),
+  \href{https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-report-protecting-consumer-privacy-era-rapid-change-recommendations/120326privacyreport.pdf}{\texttt{online}}
+
+\bibitem{inverse-privacy}
+Gurevich, Y., Hudis, E., Wing, J.M.: {Inverse Privacy}. Communications of ACM
+  \textbf{59}(7),  38--42 (Jun 2016). \doi{10.1145/2838730},
+  \url{http://doi.acm.org/10.1145/2838730}
+
+\bibitem{ipip-3200}
+{International Personality Item Pool}: {The 3,320 IPIP Items in Alphabetical
+  Order}. \href{https://ipip.ori.org/AlphabeticalItemList.htm}{\texttt{online}}
+  (2018)
+
+\bibitem{kosinski-likes}
+Kosinski, M., Stillwell, D., Graepel, T.: Private traits and attributes are
+  predictable from digital records of human behavior. Proceedings of the
+  National Academy of Sciences  \textbf{110}(15),  5802--5805 (2013),
+  \url{http://www.pnas.org/content/110/15/5802}
+
+\bibitem{parsinomious}
+Kristensen, J.B., lbrechtsen, T., Dahl-Nielsen, E., Jensen, M., Skovrind, M.,
+  Bornakke, T.: Parsimonious data: How a single facebook like predicts voting
+  behavior in multiparty systems. PLOS ONE  \textbf{12}(9),  1--12 (09 2017),
+  \url{https://doi.org/10.1371/journal.pone.0184562}
+
+\bibitem{fb-ca-lse}
+{Lee Edwards}: {Cambridge Analytica and the deeper malaise in the persuasion
+  industry}.
+  \href{http://blogs.lse.ac.uk/polis/2018/03/26/cambridge-analytica-a-symptom-of-a-deeper-malaise-in-the-persuasion-industry/}{\texttt{online}}
+  (2018)
+
+\bibitem{what-matters-to-users}
+Leon, P.G., Ur, B., Wang, Y., Sleeper, M., Balebako, R., Shay, R., Bauer, L.,
+  Christodorescu, M., Cranor, L.F.: {What Matters to Users?: Factors That
+  Affect Users' Willingness to Share Information with Online Advertisers}. In:
+  SOUPS. pp. 7:1--7:12. ACM (2013). \doi{10.1145/2501604.2501611},
+  \url{http://doi.acm.org/10.1145/2501604.2501611}
+
+\bibitem{nist-pii}
+McCallister, E., Grance, T., Scarfone, K.A.: {SP 800-122. Guide to Protecting
+  the Confidentiality of Personally Identifiable Information (PII)}. Tech.
+  rep., National Institute of Standards \& Technology (2010)
+
+\bibitem{unique-mall}
+de~Montjoye, Y.A., Radaelli, L., Singh, V.K., Pentland, A.{\textquotedblleft}.:
+  Unique in the shopping mall: On the reidentifiability of credit card
+  metadata. Science  \textbf{347}(6221),  536--539 (2015)
+
+\bibitem{paul-ohm-accretive}
+Ohm, P.: Broken promises of privacy: Responding to the surprising failure of
+  anonymization. UCLA Law Review, Vol. 57, p. 1701, 2010  (2009)
+
+\bibitem{vtp-rks-fb2}
+Patil, V.T., Shyamasundar, R.K.: Privacy as a currency: Un-regulated? In: Int.
+  Conf. on Security \& Crypto., SECRYPT 2017. vol.~4, pp. 586--595 (2017)
+
+\bibitem{vtp-rks-fb1}
+Patil, V.T., Shyamasundar, R.K.: {Undoing of Privacy Policies on Facebook}. In:
+  Data and Applications Security and Privacy {XXXI} - 31st Annual {IFIP} {WG}
+  11.3 Conference, DBSec 2017. pp. 239--255 (2017)
+
+\bibitem{isrdc-tr-2017-rks-vtp-privacy-fb-apps}
+Patil, V.T., Shyamasundar, R.K.: {Role of Apps in Undoing of Privacy Policies
+  on Facebook}. Tech. rep., {IIT Bombay} (2018),
+  \href{http://isrdc.iitb.ac.in/reports/isrdc-tr-2018-rks-vtp-privacy-fb-apps.pdf}{\texttt{online}}
+
+\bibitem{social-plugins}
+Portokalidis, G., Polychronakis, M., Keromytis, A.D., Markatos, E.P.:
+  Privacy-preserving social plugins. In: {USENIX} Security Symp. pp. 631--646
+  (2012),
+  \url{https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/kontaxis}
+
+\bibitem{fb-ad-categories}
+{ProPublica Data Store}: Facebook ad categories.
+  \href{https://www.propublica.org/datastore/dataset/facebook-ad-categories}{\texttt{online}}
+  (2016)
+
+\bibitem{kosinski-facebook-personality}
+Quercia, D., Lambiotte, R., Stillwell, D., Kosinski, M., Crowcroft, J.: {The
+  Personality of Popular Facebook Users}. In: Proc. of the ACM 2012 Conf. on
+  Computer Supported Cooperative Work. pp. 955--964 (2012)
+
+\bibitem{data-goliath}
+Schneier, B.: {Data and Goliath: The Hidden Battles to Collect Your Data and
+  Control Your World}. W. W. Norton \& Company (March 2015)
+
+\bibitem{sso1}
+Sun, S.T., Beznosov, K.: {The Devil is in the (Implementation) Details: An
+  Empirical Analysis of OAuth SSO Systems}. In: ACM CCS. pp. 378--390 (2012)
+
+\bibitem{kosinski-youyou}
+Youyou, W., Kosinski, M., Stillwell, D.: Computer-based personality judgments
+  are more accurate than those made by humans. Proceedings of the National
+  Academy of Sciences  \textbf{112}(4),  1036--1040 (2015)
+
+\end{thebibliography}
