@@ -1,0 +1,758 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.6.18)  31 JUL 2018 18:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**gdpr-v1
+(./gdpr-v1.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(./llncs.cls
+Document Class: llncs 2018/03/10 v2.20 
+ LaTeX document class for Lecture Notes in Computer Science
+(./article.cls
+Document Class: article 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count95
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2016/05/16 v1.4 Alias counters (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/remreset.sty))
+\c@chapter=\count96
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen112
+\tocsecnum=\dimen113
+\tocsectotal=\dimen114
+\tocsubsecnum=\dimen115
+\tocsubsectotal=\dimen116
+\tocsubsubsecnum=\dimen117
+\tocsubsubsectotal=\dimen118
+\tocparanum=\dimen119
+\tocparatotal=\dimen120
+\tocsubparanum=\dimen121
+\@tempcntc=\count97
+\fnindent=\dimen122
+\c@@inst=\count98
+\c@@auth=\count99
+\c@auco=\count100
+\instindent=\dimen123
+\authrun=\box52
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box53
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count101
+\c@case=\count102
+\c@conjecture=\count103
+\c@corollary=\count104
+\c@definition=\count105
+\c@example=\count106
+\c@exercise=\count107
+\c@lemma=\count108
+\c@note=\count109
+\c@problem=\count110
+\c@property=\count111
+\c@proposition=\count112
+\c@question=\count113
+\c@solution=\count114
+\c@remark=\count115
+\headlineindent=\dimen124
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count116
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen127
+\epsfysize=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen129
+\Hy@linkcounter=\count117
+\Hy@pagecounter=\count118
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen130
+\Fld@menulength=\count121
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count122
+\c@Item=\count123
+\c@Hfootnote=\count124
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks19
+\footnotemargin=\dimen133
+\c@pp@next@reset=\count127
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+) (./gdpr-v1.aux)
+\openout1 = `gdpr-v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen134
+\scratchbox=\box54
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen135
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring OFF on input line 14.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count134
+)
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+
+(./gdpr-v1.out) (./gdpr-v1.out)
+\@outlinefile=\write3
+\openout3 = `gdpr-v1.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 106.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[][][]\OT1/cmr/m/n/9 washingtonpost.com/news/innovations/wp/2017/09/29/why-we-n
+eed-new-
+ []
+
+[2]
+
+LaTeX Warning: Citation `sso1' on page 3 undefined on input line 256.
+
+
+LaTeX Warning: Citation `sso2' on page 3 undefined on input line 256.
+
+[3]
+Package epstopdf Info: Source file: <business-model.eps>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 25763 bytes
+(epstopdf)             Output file: <business-model-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 19077 bytes
+(epstopdf)             Command: <repstopdf --outfile=business-model-eps-convert
+ed-to.pdf business-model.eps>
+(epstopdf)             \includegraphics on input line 299.
+Package epstopdf Info: Output file is already uptodate.
+ <business-model-eps-converted-to.pdf, id=53, 543.02875pt x 349.305pt>
+File: business-model-eps-converted-to.pdf Graphic file (type pdf)
+
+<use business-model-eps-converted-to.pdf>
+Package pdftex.def Info: business-model-eps-converted-to.pdf used on input line
+ 299.
+(pdftex.def)             Requested size: 277.69987pt x 178.63887pt.
+ [4 <./business-model-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `ipip-3200' on page 5 undefined on input line 333.
+
+
+LaTeX Warning: Citation `fb-ad-categories' on page 5 undefined on input line 33
+6.
+
+
+LaTeX Warning: Citation `social-plugins' on page 5 undefined on input line 358.
+
+
+
+LaTeX Warning: Citation `web-never-forgets' on page 5 undefined on input line 3
+58.
+
+[5]
+Overfull \hbox (14.09163pt too wide) in paragraph at lines 387--398
+ []\OT1/cmr/m/it/10 Platform owner (FBAN).[] \OT1/cmr/m/n/10 Face-book Au-di-en
+ce Net-work ([]$\OT1/cmtt/m/n/10 fb . com / audiencenetwork$[]\OT1/cmr/m/n/10 )
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--398
+
+ []
+
+
+LaTeX Warning: Citation `data-goliath' on page 6 undefined on input line 404.
+
+
+LaTeX Warning: Citation `fb-tao' on page 6 undefined on input line 420.
+
+Package epstopdf Info: Source file: <hierarchy.eps>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 6976 bytes
+(epstopdf)             Output file: <hierarchy-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 7857 bytes
+(epstopdf)             Command: <repstopdf --outfile=hierarchy-eps-converted-to
+.pdf hierarchy.eps>
+(epstopdf)             \includegraphics on input line 442.
+Package epstopdf Info: Output file is already uptodate.
+<hierarchy-eps-converted-to.pdf, id=92, 289.08pt x 200.75pt>
+File: hierarchy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use hierarchy-eps-converted-to.pdf>
+Package pdftex.def Info: hierarchy-eps-converted-to.pdf used on input line 442.
+
+(pdftex.def)             Requested size: 184.9429pt x 128.43054pt.
+ [6]
+
+LaTeX Warning: Citation `vtp-rks-fb1' on page 7 undefined on input line 458.
+
+
+LaTeX Warning: Citation `isrdc-tr-2017-rks-vtp-privacy-fb-apps' on page 7 undef
+ined on input line 488.
+
+[7 <./hierarchy-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+[][][]\OT1/cmr/m/n/9 https://lifehacker.com/5994380/how-facebook-uses-your-data
+-to-target-ads-even-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[][][]\OT1/cmr/m/n/9 motherboard.vice.com/en[]us/article/kzxdny/facebook-invest
+igating-employee-
+ []
+
+[8]
+
+LaTeX Warning: Citation `fb-ca-lse' on page 9 undefined on input line 523.
+
+
+LaTeX Warning: Citation `paul-ohm-accretive' on page 9 undefined on input line 
+552.
+
+
+LaTeX Warning: Citation `nist-pii' on page 9 undefined on input line 561.
+
+Package epstopdf Info: Source file: <personal-info-classification2.eps>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 4864 bytes
+(epstopdf)             Output file: <personal-info-classification2-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 9453 bytes
+(epstopdf)             Command: <repstopdf --outfile=personal-info-classificati
+on2-eps-converted-to.pdf personal-info-classification2.eps>
+(epstopdf)             \includegraphics on input line 605.
+Package epstopdf Info: Output file is already uptodate.
+
+<personal-info-classification2-eps-converted-to.pdf, id=132, 418.56375pt x 400.
+49625pt>
+File: personal-info-classification2-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use personal-info-classification2-eps-converted-to.pdf>
+Package pdftex.def Info: personal-info-classification2-eps-converted-to.pdf use
+d on input line 605.
+(pdftex.def)             Requested size: 138.84729pt x 132.8486pt.
+ [9]
+
+LaTeX Warning: Citation `inverse-privacy' on page 10 undefined on input line 61
+0.
+
+[10 <./personal-info-classification2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <data-life-cycle.eps>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 4061 bytes
+(epstopdf)             Output file: <data-life-cycle-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 11994 bytes
+(epstopdf)             Command: <repstopdf --outfile=data-life-cycle-eps-conver
+ted-to.pdf data-life-cycle.eps>
+(epstopdf)             \includegraphics on input line 634.
+Package epstopdf Info: Output file is already uptodate.
+
+<data-life-cycle-eps-converted-to.pdf, id=154, 533.995pt x 183.68625pt>
+File: data-life-cycle-eps-converted-to.pdf Graphic file (type pdf)
+
+<use data-life-cycle-eps-converted-to.pdf>
+Package pdftex.def Info: data-life-cycle-eps-converted-to.pdf used on input lin
+e 634.
+(pdftex.def)             Requested size: 199.16928pt x 68.51219pt.
+
+
+LaTeX Warning: Citation `fb-browser-extension-detection' on page 11 undefined o
+n input line 664.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--666
+[][][]\OT1/cmr/m/n/9 https://www.wsj.com/articles/facebooks-onavo-gives-social-
+media-firm-inside-peek-
+ []
+
+
+LaTeX Warning: Citation `big-brother-watching' on page 11 undefined on input li
+ne 668.
+
+[11 <./data-life-cycle-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `kosinski-youyou' on page 12 undefined on input line 69
+1.
+
+
+LaTeX Warning: Citation `kosinski-likes' on page 12 undefined on input line 691
+.
+
+
+LaTeX Warning: Citation `ocean-costa' on page 12 undefined on input line 694.
+
+
+LaTeX Warning: Citation `parsinomious' on page 12 undefined on input line 704.
+
+
+LaTeX Warning: Citation `fb-ad-categories' on page 12 undefined on input line 7
+16.
+
+[12]
+Package epstopdf Info: Source file: <data-governance.eps>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 3936 bytes
+(epstopdf)             Output file: <data-governance-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-07-31 18:37:15
+(epstopdf)                    size: 12104 bytes
+(epstopdf)             Command: <repstopdf --outfile=data-governance-eps-conver
+ted-to.pdf data-governance.eps>
+(epstopdf)             \includegraphics on input line 811.
+Package epstopdf Info: Output file is already uptodate.
+ <data-governance-eps-converted-to.pdf, id=196, 541.02126pt x 206.7725pt>
+File: data-governance-eps-converted-to.pdf Graphic file (type pdf)
+
+<use data-governance-eps-converted-to.pdf>
+Package pdftex.def Info: data-governance-eps-converted-to.pdf used on input lin
+e 811.
+(pdftex.def)             Requested size: 199.16928pt x 76.11969pt.
+ [13]
+
+LaTeX Warning: Citation `social-plugins' on page 14 undefined on input line 821
+.
+
+
+LaTeX Warning: Citation `web-never-forgets' on page 14 undefined on input line 
+821.
+
+[14 <./data-governance-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `unique-mall' on page 15 undefined on input line 911.
+
+
+LaTeX Warning: Citation `unique-crowd' on page 15 undefined on input line 911.
+
+[15]
+
+LaTeX Warning: Citation `pbd-7' undefined on input line 970.
+
+
+LaTeX Warning: Citation `eu-gdpr' undefined on input line 970.
+
+
+LaTeX Warning: Citation `Dixon2017' undefined on input line 970.
+
+
+LaTeX Warning: Citation `privacy-paradox' undefined on input line 970.
+
+
+LaTeX Warning: Citation `business-of-personal-data' undefined on input line 970
+.
+
+
+LaTeX Warning: Citation `contextual-integrity' undefined on input line 970.
+
+
+LaTeX Warning: Citation `vtp-rks-fb2' undefined on input line 970.
+
+
+LaTeX Warning: Citation `kosinski-facebook-personality' undefined on input line
+ 972.
+
+
+LaTeX Warning: Citation `linkability1' undefined on input line 972.
+
+
+LaTeX Warning: Citation `sso1' undefined on input line 972.
+
+
+LaTeX Warning: Citation `sso2' undefined on input line 972.
+
+
+LaTeX Warning: Citation `inverse-privacy' undefined on input line 972.
+
+
+LaTeX Warning: Citation `ftc-2012' undefined on input line 972.
+
+
+LaTeX Warning: Citation `what-matters-to-users' undefined on input line 972.
+
+No file gdpr-v1.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1015.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1015.
+ (./gdpr-v1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1015.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1015.
+
+Package rerunfilecheck Info: File `gdpr-v1.out' has not changed.
+(rerunfilecheck)             Checksum: 0E8FD377A0F26680C822A18168078E8C;87.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1015.
+ ) 
+Here is how much of TeX's memory you used:
+ 5774 strings out of 494945
+ 85166 string characters out of 6181032
+ 177501 words of memory out of 5000000
+ 8953 multiletter control sequences out of 15000+600000
+ 8507 words of font info for 30 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 29i,7n,25p,239b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.19} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on gdpr-v1.pdf (16 pages, 278730 bytes).
+PDF statistics:
+ 302 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,210 @@
+\begin{thebibliography}{}
+
+\bibitem[Acar et~al., 2014]{web-never-forgets}
+Acar, G., Eubank, C., Englehardt, S., Juarez, M., Narayanan, A., and Diaz, C.
+  (2014).
+\newblock The web never forgets: Persistent tracking mechanisms in the wild.
+\newblock In {\em ACM CCS'14}, pages 674--689.
+
+\bibitem[{Ann Cavoukian}, 2011]{pbd-7}
+{Ann Cavoukian} (2011).
+\newblock Privacy by design: The 7 foundational principles.
+\newblock
+  \href{https://iab.org/wp-content/IAB-uploads/2011/03/fred_carter.pdf}{\texttt{online}}.
+
+\bibitem[Athey et~al., 2017]{privacy-paradox}
+Athey, S., Catalini, C., and Tucker, C. (2017).
+\newblock The digital privacy paradox: Small money, small costs, small talk.
+\newblock Working Paper 23488, Nat. Bureau of Econ. Research.
+
+\bibitem[Barth et~al., 2006]{contextual-integrity}
+Barth, A., Datta, A., Mitchell, J.~C., and Nissenbaum, H. (2006).
+\newblock Privacy and contextual integrity: Framework and applications.
+\newblock In {\em IEEE S\&P'06}, pages 184--198.
+
+\bibitem[Bronson et~al., 2013]{fb-tao}
+Bronson, N., Amsden, Z., Cabrera, G., Chakka, P., Dimov, P., Ding, H., Ferris,
+  J., Giardullo, A., Kulkarni, S., Li, H., Marchukov, M., Petrov, D., Puzar,
+  L., Song, Y.~J., and Venkataramani, V. (2013).
+\newblock {TAO: Facebook{\textquoteright}s Distributed Data Store for the
+  Social Graph}.
+\newblock In {\em USENIX ATC 13}, pages 49--60.
+
+\bibitem[Camenisch and Lehmann, 2015]{linkability1}
+Camenisch, J. and Lehmann, A. (2015).
+\newblock {(Un)Linkable Pseudonyms for Governmental Databases}.
+\newblock In {\em ACM CCS'15}, pages 1467--1479.
+
+\bibitem[Chaabane et~al., 2012]{big-brother-watching}
+Chaabane, A., Kaafar, M.~A., and Boreli, R. (2012).
+\newblock Big friend is watching you: Analyzing online social networks tracking
+  capabilities.
+\newblock In {\em Proc. of ACM Workshop on Online Social Networks}, pages
+  7--12. ACM.
+
+\bibitem[Costa and McCrae, 2012]{ocean-costa}
+Costa, P.~T. and McCrae, R.~R. (2012).
+\newblock {\em The Five-Factor Model, Five-Factor Theory, and Interpersonal
+  Psychology}, chapter~6, pages 91--104.
+\newblock Wiley-Blackwell.
+
+\bibitem[De~Montjoye et~al., 2013]{unique-crowd}
+De~Montjoye, Y.-A., Hidalgo, C.~A., Verleysen, M., and Blondel, V.~D. (2013).
+\newblock {Unique in the crowd: The privacy bounds of human mobility}.
+\newblock {\em Scientific reports}, 3:1376.
+
+\bibitem[de~Montjoye et~al., 2015]{unique-mall}
+de~Montjoye, Y.-A., Radaelli, L., Singh, V.~K., and Pentland,
+  A.~{\textquotedblleft}. (2015).
+\newblock Unique in the shopping mall: On the reidentifiability of credit card
+  metadata.
+\newblock {\em Science}, 347(6221):536--539.
+
+\bibitem[DeKoven et~al., 2017]{fb-browser-extension-detection}
+DeKoven, L.~F., Savage, S., Voelker, G.~M., and Leontiadis, N. (2017).
+\newblock {Malicious Browser Extensions at Scale: Bridging the Observability
+  Gap between Web Site and Browser}.
+\newblock In {\em {10th {USENIX} Workshop on Cyber Security Experimentation and
+  Test ({CSET} 17)}}.
+
+\bibitem[Dixon, 2017]{Dixon2017}
+Dixon, P. (2017).
+\newblock {A Failure to ``Do No Harm'' -- India's Aadhaar biometric ID program
+  and its inability to protect privacy in relation to measures in Europe and
+  the U.S.}
+\newblock {\em Health and Technology}, 7(4):539--567.
+
+\bibitem[Esteve, 2017]{business-of-personal-data}
+Esteve, A. (2017).
+\newblock {The business of personal data: Google, Facebook, and privacy issues
+  in the EU and the USA}.
+\newblock {\em International Data Privacy Law}, 7(1):36--47.
+
+\bibitem[{European Union}, 2018]{eu-gdpr}
+{European Union} (2018).
+\newblock {2018 reform of EU data protection rules}.
+\newblock
+  \href{https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en}{\texttt{online}}.
+
+\bibitem[Fett et~al., 2015]{sso2}
+Fett, D., K\"{u}sters, R., and Schmitz, G. (2015).
+\newblock {SPRESSO: A Secure, Privacy-Respecting Single Sign-On System for the
+  Web}.
+\newblock In {\em ACM CCS'15}, pages 1358--1369.
+
+\bibitem[{FTC}, 2012]{ftc-2012}
+{FTC} (2012).
+\newblock {Protecting Consumer Privacy in an Era of Rapid Change:
+  Recommendations for Businesses and Policymakers}.
+\newblock
+  \href{https://www.ftc.gov/sites/default/files/documents/reports/federal-trade-commission-report-protecting-consumer-privacy-era-rapid-change-recommendations/120326privacyreport.pdf}{\texttt{online}}.
+
+\bibitem[Gurevich et~al., 2016]{inverse-privacy}
+Gurevich, Y., Hudis, E., and Wing, J.~M. (2016).
+\newblock {Inverse Privacy}.
+\newblock {\em Communications of ACM}, 59(7):38--42.
+
+\bibitem[{International Personality Item Pool}, 2018]{ipip-3200}
+{International Personality Item Pool} (2018).
+\newblock {The 3,320 IPIP Items in Alphabetical Order}.
+\newblock
+  \href{https://ipip.ori.org/AlphabeticalItemList.htm}{\texttt{online}}.
+
+\bibitem[Kosinski et~al., 2013]{kosinski-likes}
+Kosinski, M., Stillwell, D., and Graepel, T. (2013).
+\newblock Private traits and attributes are predictable from digital records of
+  human behavior.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(15):5802--5805.
+
+\bibitem[Kristensen et~al., 2017]{parsinomious}
+Kristensen, J.~B., lbrechtsen, T., Dahl-Nielsen, E., Jensen, M., Skovrind, M.,
+  and Bornakke, T. (2017).
+\newblock Parsimonious data: How a single facebook like predicts voting
+  behavior in multiparty systems.
+\newblock {\em PLOS ONE}, 12(9):1--12.
+
+\bibitem[{Lee Edwards}, 2018]{fb-ca-lse}
+{Lee Edwards} (2018).
+\newblock {Cambridge Analytica and the deeper malaise in the persuasion
+  industry}.
+\newblock
+  \href{http://blogs.lse.ac.uk/polis/2018/03/26/cambridge-analytica-a-symptom-of-a-deeper-malaise-in-the-persuasion-industry/}{\texttt{online}}.
+
+\bibitem[Leon et~al., 2013]{what-matters-to-users}
+Leon, P.~G., Ur, B., Wang, Y., Sleeper, M., Balebako, R., Shay, R., Bauer, L.,
+  Christodorescu, M., and Cranor, L.~F. (2013).
+\newblock {What Matters to Users?: Factors That Affect Users' Willingness to
+  Share Information with Online Advertisers}.
+\newblock In {\em SOUPS}, pages 7:1--7:12. ACM.
+
+\bibitem[McCallister et~al., 2010]{nist-pii}
+McCallister, E., Grance, T., and Scarfone, K.~A. (2010).
+\newblock {SP 800-122. Guide to Protecting the Confidentiality of Personally
+  Identifiable Information (PII)}.
+\newblock Technical report, National Institute of Standards \& Technology.
+
+\bibitem[Ohm, 2009]{paul-ohm-accretive}
+Ohm, P. (2009).
+\newblock Broken promises of privacy: Responding to the surprising failure of
+  anonymization.
+\newblock {\em UCLA Law Review, Vol. 57, p. 1701, 2010}.
+
+\bibitem[Patil and Shyamasundar, 2017a]{vtp-rks-fb2}
+Patil, V.~T. and Shyamasundar, R.~K. (2017a).
+\newblock Privacy as a currency: Un-regulated?
+\newblock In {\em Int. Conf. on Security \& Crypto., SECRYPT 2017}, volume~4,
+  pages 586--595.
+
+\bibitem[Patil and Shyamasundar, 2017b]{vtp-rks-fb1}
+Patil, V.~T. and Shyamasundar, R.~K. (2017b).
+\newblock {Undoing of Privacy Policies on Facebook}.
+\newblock In {\em Data and Applications Security and Privacy {XXXI} - 31st
+  Annual {IFIP} {WG} 11.3 Conference, DBSec 2017}, pages 239--255.
+
+\bibitem[Patil and Shyamasundar, 2018]{isrdc-tr-2017-rks-vtp-privacy-fb-apps}
+Patil, V.~T. and Shyamasundar, R.~K. (2018).
+\newblock {Role of Apps in Undoing of Privacy Policies on Facebook}.
+\newblock Technical report, {IIT Bombay}.
+\newblock
+  \href{http://isrdc.iitb.ac.in/reports/isrdc-tr-2018-rks-vtp-privacy-fb-apps.pdf}{\texttt{online}}.
+
+\bibitem[Portokalidis et~al., 2012]{social-plugins}
+Portokalidis, G., Polychronakis, M., Keromytis, A.~D., and Markatos, E.~P.
+  (2012).
+\newblock Privacy-preserving social plugins.
+\newblock In {\em {USENIX} Security Symp.}, pages 631--646.
+
+\bibitem[{ProPublica Data Store}, 2016]{fb-ad-categories}
+{ProPublica Data Store} (2016).
+\newblock Facebook ad categories.
+\newblock
+  \href{https://www.propublica.org/datastore/dataset/facebook-ad-categories}{\texttt{online}}.
+
+\bibitem[Quercia et~al., 2012]{kosinski-facebook-personality}
+Quercia, D., Lambiotte, R., Stillwell, D., Kosinski, M., and Crowcroft, J.
+  (2012).
+\newblock {The Personality of Popular Facebook Users}.
+\newblock In {\em Proc. of the ACM 2012 Conf. on Computer Supported Cooperative
+  Work}, pages 955--964.
+
+\bibitem[Schneier, 2015]{data-goliath}
+Schneier, B. (March 2015).
+\newblock {\em {Data and Goliath: The Hidden Battles to Collect Your Data and
+  Control Your World}}.
+\newblock W. W. Norton \& Company.
+
+\bibitem[Sun and Beznosov, 2012]{sso1}
+Sun, S.-T. and Beznosov, K. (2012).
+\newblock {The Devil is in the (Implementation) Details: An Empirical Analysis
+  of OAuth SSO Systems}.
+\newblock In {\em ACM CCS}, pages 378--390.
+
+\bibitem[Youyou et~al., 2015]{kosinski-youyou}
+Youyou, W., Kosinski, M., and Stillwell, D. (2015).
+\newblock Computer-based personality judgments are more accurate than those
+  made by humans.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(4):1036--1040.
+
+\end{thebibliography}
